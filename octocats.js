@@ -8,12 +8,12 @@ function Octocats(n,a){
     for(var a=0,a<9,a++){
       console.log("SLAP");
     }
-  }
+  };
 }
 
 
-
-
+var japplecat = new Octocat("Joey", 420);
+var sammystechhelpcat = new Octocat("TechHelp",666)
 
 
 
